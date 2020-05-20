@@ -1,7 +1,7 @@
 <template>
     <div>
         <h3>
-            Welcome组件
+            Welcome To My Home
         </h3>
     </div>
 </template>
